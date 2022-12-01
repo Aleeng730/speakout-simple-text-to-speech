@@ -1,2 +1,4 @@
 # speakout-simple-text-to-speech
-"SpeakOut" is a simple Text to Speech program that allows you to type in text, pause, and stop.
+"SpeakOut" is a simple Text to Speech program that allows you to type in text, pause, and stop. Made with C++ and Winforms
+
+To open, run the .exe file in MusicPlayer\x64\Debug
